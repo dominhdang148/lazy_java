@@ -13,7 +13,7 @@ return {
         brightness = 0.15,
       })
 
-      vim.cmd.colorscheme("fluoromachine")
+    --   vim.cmd.colorscheme("fluoromachine")
     end,
   },
 }
